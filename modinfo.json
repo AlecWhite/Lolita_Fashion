@@ -1,0 +1,13 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "Lolita_Fashion",
+    "name": "<color_pink>Lolita Fashion</color>",
+    "authors": [ "Alec White" ],
+    "description": "Adds survivor lolita coords, for all your fancy needs.",
+    "category": "content",
+    "obsolete": false,
+    "lua_api_version": 1,
+    "dependencies": [ "bn" ]
+  }
+]

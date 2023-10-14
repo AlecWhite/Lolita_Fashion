@@ -1,0 +1,17 @@
+[
+    {
+      "type": "mod_tileset",
+      "compatibility": [ "UNDEAD_PEOPLE_BASE", "UNDEAD_PEOPLE" ],
+      "tiles-new": [
+        {
+          "file": "lolita_sprites.png",
+          "tiles": [
+            { "id": "overlay_worn_survivor_lolita_coord", "fg": 0, "rotates": false },
+            { "id": "survivor_lolita_coord", "fg": 1, "rotates": false }
+          ],
+          "sprite_width": 32,
+          "sprite_height": 32
+        }
+      ]
+    }
+  ]
